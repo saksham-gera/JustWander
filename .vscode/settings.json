@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.codeActionWidget.showHeaders": false,
+    "editor.columnSelection": false
+}
